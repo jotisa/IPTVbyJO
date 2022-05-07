@@ -1,0 +1,3 @@
+# IPTVbyJO
+Repository of IPTV channels curated by Jo.
+Where I would add different kinds of channels as I get them...
