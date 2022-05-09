@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",VH1 (1080p)
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Music",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" group-title="Undefined",Telemadrid (720p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/laotra-mediano.png" group-title="Undefined",LaOtra (720p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Series",AXN Latinoamérica (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
