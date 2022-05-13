@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-language="Italian" tvg-logo="" group-title="Music",VH1 (1080p)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" group-title="Undefined",Telemadrid (720p)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/laotra-mediano.png" group-title="Undefined",LaOtra (720p)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioONda.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/pFC5dyc.png" group-title="Radio",Radio Madrid (720p)
+https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Series",AXN Latinoamérica (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
+
+#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",Nimbus Playout
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+ 
+#EXTINF:-1 tvg-id="AyenehTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="International",Ayeneh TV (720p) 
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ta05IbG.jpg" group-title="Undefined",CafeTV24 (720p)
+https://srvx1.selftv.video/cafe/live/playlist.m3u8#[Not 24/7]
+
+#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title="Undefined",Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Canale10.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://pbs.twimg.com/profile_images/942825876533727234/P7MmeqqD_400x400.jpg" group-title="Undefined",Canale 10 (540p) [Not 24/7]
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aXUJBdt.png" group-title="Undefined",Canal Extremadura (576p) [Not 24/7] 
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Music",Portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (480p)
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qUZW3xI.png" group-title="Undefined",Multicanal Catamayo (720p)
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-id="NavarraTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rcbRX2T.png" group-title="Series",Navarra TV (576p) 
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OndaCadizHD.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/patSAKS.png" group-title="Undefined",Onda Cádiz (1080p)
+https://adc-hls.flumotion.com/playlist.m3u8
+  
