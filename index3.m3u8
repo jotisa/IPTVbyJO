@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/VH1_2020.svg" group-title="Music",VH1 (1080p)
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-language="Italian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest/scale-to-width-down/1000?cb=20210424042141&path-prefix=es" group-title="Music",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" group-title="Undefined",Telemadrid (720p)
