@@ -8,7 +8,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/laotra-mediano.png" group-title="Undefined",LaOtra (720p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioONda.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/pFC5dyc.png" group-title="Radio",Radio Madrid (720p)
+#EXTINF:-1 tvg-id="RadioONda.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/pFC5dyc.png" group-title="Radio",Radio Onda Madrid (720p)
 https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Series",AXN Latinoamérica (1080p)
